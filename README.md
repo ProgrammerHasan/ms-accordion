@@ -1,6 +1,6 @@
-# ms_accordion
+# This is a flutter accordion package written in dart for flutter developers.
 
-ms_accordion
+MsAccordion
 
 ## Getting Started
 
