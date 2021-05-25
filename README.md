@@ -1,10 +1,10 @@
-# This is a flutter accordion package written in dart for flutter developers.
+# MsAccordion
 
-MsAccordion
+This is a flutter accordion package written in dart for flutter developers.
 
 ## Getting Started
 
-# flutter_text_form_field
+# ms_accordion
 
 A new Flutter package that provide already made MsAccordian
 
