@@ -23,10 +23,6 @@ To use this package :
 ```
 
 ```dart
-    //...
-    Usage
-    //...
-
 import 'package:flutter/material.dart';
 import 'package:ms_accordion/ms_accordion.dart';
 
