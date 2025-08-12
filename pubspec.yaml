@@ -1,12 +1,23 @@
 name: ms_accordion
 description: This is a flutter accordion package written in dart for flutter developers.
-version: 0.0.1
+version: 1.0.2
 author: ProgrammerHasan <programmerhasan.s@gmail.com>
-homepage: https://github.com/ProgrammerHasan/ms-accordion
+homepage: https://github.com/programmerhasan/ms-accordion
+repository: https://github.com/programmerhasan/ms-accordion
+issue_tracker: https://github.com/programmerhasan/ms-accordion/issues
+documentation: https://pub.dev/packages/ms-accordion
+
+platforms:
+  android:
+  ios:
+  linux:
+  macos:
+  web:
+  windows:
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
-  flutter: ">=1.17.0"
+  sdk: ">=2.18.0 <4.0.0"
+  flutter: ">=3.3.0"
 
 dependencies:
   flutter:
